@@ -4,7 +4,7 @@ This homework has two parts; first, complete the exercises we began in class tod
 
 #### Red Dot Puzzles (due Monday)
 
-- First, [**read through the building blocks we covered**](../building-blocks-programs.md) and make sure it all makes sense. If you have any questions about anything, email [J.D.](mailto:jzamfirescupereira@cca.edu) or [Lei](mailto:lxiang@cca.edu)!
+- First, [**read through the building blocks we covered**](../building-blocks-programs.md) and make sure it all makes sense. If you have any questions about anything, email [Chris](mailto:cantor@cca.edu) or [Yisel](mailto:yrosariochang@cca.edu)!
 
 - Finish solving the [puzzles](../puzzle-sheets.pdf) we started in class. Remember, your goal is to give instructions to Rudy, the red dot, so that it passes over (collects) all the green dots.
 
